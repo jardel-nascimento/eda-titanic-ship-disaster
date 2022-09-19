@@ -2,6 +2,8 @@
 
 exploratory data analysis about the ship disaster.
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jardel-nascimento/titanic-analysis/blob/main/LICENSE)
+
 ## context
 
 >the sinking of the rms titanic is one of the most infamous shipwrecks in history.  on april 15, 1912, during her maiden voyage, the titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew.  this sensational tragedy shocked the international community and led to better safety regulations for ships.
@@ -13,7 +15,7 @@ exploratory data analysis about the ship disaster.
 ## main goal:
 present a simple example of exploratory analysis of structured data train, just using <b>pandas profiling python library</b> in [google colaboratory](https://colab.research.google.com/).
 
-## how use:
+## how to use:
 
 1. download this repository.
 2. upload it to your google drive account.
