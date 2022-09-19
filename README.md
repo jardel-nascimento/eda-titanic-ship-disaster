@@ -3,9 +3,9 @@
   <img width="460" height="300" src="https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg">
 </p>
 
-# titanic analysis
+# pandas profiling library on google colab
 
-an exploratory data analysis, using the pandas profiling library and google colab.
+an exploratory data analysis exemple, using the pandas profiling library and google colab.
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jardel-nascimento/titanic-analysis/blob/main/LICENSE)
 
