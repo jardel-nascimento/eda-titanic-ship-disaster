@@ -6,6 +6,7 @@ exploratory data analysis about the ship disaster.
 
 ## context
 
+![titanic ship image](https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg)
 >the sinking of the rms titanic is one of the most infamous shipwrecks in history.  on april 15, 1912, during her maiden voyage, the titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew.  this sensational tragedy shocked the international community and led to better safety regulations for ships.
 >
 >one of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew.  although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
