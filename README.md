@@ -1,24 +1,36 @@
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg">
+</p>
+
 # titanic analysis
 
-exploratory data analysis about the ship disaster.
+an exploratory data analysis, using the pandas profiling library and google colab.
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jardel-nascimento/titanic-analysis/blob/main/LICENSE)
 
 ## context
 
-![titanic ship image](https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg)
->the sinking of the rms titanic is one of the most infamous shipwrecks in history.  on april 15, 1912, during her maiden voyage, the titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew.  this sensational tragedy shocked the international community and led to better safety regulations for ships.
+>i'm a constant user of google collaborative (or simply clob) for virtualized data analysis. maybe I'm one of the few analysts who does analysis using google colab on their smartphone. I like it.
 >
->one of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew.  although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
-
-<b>important</b>: the data used in this analysis was extracted from dataset for training machine learning algorithms provided by [kaggle competition homepage](http://www.kaggle.com/c/titanic-gettingstarted).
+>i also like to leverage classes and functions to speed up the exploratory analysis process, also known as eda. colab sometimes has limitations for using generalist libraries. and one of the libraries that most help us to quickly understand the data doesn't work in colab. it's called pandas profiling.
+>
+>after searching a lot on the internet I ended up finding a way to install the library in the colab environment, to import at least the ProfileReport class.
+>
+>in this notebook I will present a very simple way to do this installation, import and execution of the report code of this library. and the result is wonderful (lol):
+>
+![pandas profiling report model](https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/pandas-profiling-analysis-exemplo.PNG)
+>
+>the dataset generated from titanic shipwreck has been, and still is, widely explored by different types of analysts, researchers and scientists around the world, whether for machine learning training, statistical analysis or for development tests and other applications.
+>
+>this dataset was chosen because of its distribution, volume and variety of data, for the analysis test we intend to do. it was extracted from dataset for training machine learning algorithms provided by [kaggle competition homepage](http://www.kaggle.com/c/titanic-gettingstarted). so it is not completed.
 
 ## main goal:
 present a simple example of exploratory analysis of structured data train, just using <b>pandas profiling python library</b> in [google colaboratory](https://colab.research.google.com/).
 
-## how to use:
+## how to access:
 
-1. download this repository.
+1. download the all repository or only the titanic-analysis notebook.
 2. upload it to your google drive account.
 3. open the titanic analysis file on google colaboratory.
 4. run all cells.
