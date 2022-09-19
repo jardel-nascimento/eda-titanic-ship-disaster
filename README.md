@@ -11,19 +11,19 @@ an exploratory data analysis exemple, using the pandas profiling library and goo
 
 ## context
 
->i'm a constant user of google collaborative (or simply clob) for virtualized data analysis. maybe I'm one of the few analysts who does analysis using google colab on their smartphone. I like it.
+>i'm a constant user of google collaborative (or simply clob) for virtualized data analysis. maybe I'm one of the few analysts who does analysis using google colab on their smartphone. i really like it.
 >
 >i also like to leverage classes and functions to speed up the exploratory analysis process, also known as eda. colab sometimes has limitations for using generalist libraries. and one of the libraries that most help us to quickly understand the data doesn't work in colab. it's called pandas profiling.
 >
->after searching a lot on the internet I ended up finding a way to install the library in the colab environment, to import at least the ProfileReport class.
+>after searching a lot on the internet i ended up finding a way to install the library in the colab environment, to import at least the ProfileReport class.
 >
->in this notebook I will present a very simple way to do this installation, import and execution of the report code of this library. and the result is wonderful (lol):
+>in this notebook i will present a very simple way to do this installation, import and execution of the report code of this library. and the result is wonderful (lol):
 >
 ![pandas profiling report model](https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/pandas-profiling-analysis-exemplo.PNG)
 >
 >the dataset generated from titanic shipwreck has been, and still is, widely explored by different types of analysts, researchers and scientists around the world, whether for machine learning training, statistical analysis or for development tests and other applications.
 >
->this dataset was chosen because of its distribution, volume and variety of data, for the analysis test we intend to do. it was extracted from dataset for training machine learning algorithms provided by [kaggle competition homepage](http://www.kaggle.com/c/titanic-gettingstarted). so it is not completed.
+>this dataset was chosen for this exemple because of its distribution, volume and variety of data, for the analysis test we intend to do. it was extracted from dataset for training machine learning algorithms provided by [kaggle competition homepage](http://www.kaggle.com/c/titanic-gettingstarted). so it is not completed.
 
 ## main goal:
 present a simple example of exploratory analysis of structured data train, just using <b>pandas profiling python library</b> in [google colaboratory](https://colab.research.google.com/).
