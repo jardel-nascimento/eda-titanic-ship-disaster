@@ -25,6 +25,7 @@ an exploratory data analysis exemple, using the pandas profiling library and goo
 <p align="center">
   <img height="250" src="https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg">
 </p>
+
 >
 >this dataset was chosen for this exemple because of its distribution, volume and variety of data, for the analysis test we intend to do. it was extracted from dataset for training machine learning algorithms provided by [kaggle competition homepage](http://www.kaggle.com/c/titanic-gettingstarted). so it is not completed.
 
