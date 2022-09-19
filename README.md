@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img width="460" height="300" src="https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg">
+  <img height="250" src="https://github.com/jardel-nascimento/pandas-profiling-library-on-google-colab/blob/main/images/pandas-profiling-plus-google-colab.png">
 </p>
 
 # pandas profiling library on google colab
@@ -22,6 +21,10 @@ an exploratory data analysis exemple, using the pandas profiling library and goo
 ![pandas profiling report model](https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/pandas-profiling-analysis-exemplo.PNG)
 >
 >the dataset generated from titanic shipwreck has been, and still is, widely explored by different types of analysts, researchers and scientists around the world, whether for machine learning training, statistical analysis or for development tests and other applications.
+>
+<p align="center">
+  <img height="250" src="https://github.com/jardel-nascimento/titanic-analysis/blob/main/images/titanic-image.jpeg">
+</p>
 >
 >this dataset was chosen for this exemple because of its distribution, volume and variety of data, for the analysis test we intend to do. it was extracted from dataset for training machine learning algorithms provided by [kaggle competition homepage](http://www.kaggle.com/c/titanic-gettingstarted). so it is not completed.
 
